@@ -21,7 +21,7 @@ The dataset used for this project contains pedestrian images and bounding box an
 https://drive.google.com/drive/folders/1DCpmo919b7OrAng9clEbiMHjO3D0hyoa?usp=sharing
 
 
-### PDF Report (Overview)
+## Once you've opened the Google Colab file, wait for some time for the last output cell to load for the results!
 
 ---
 
