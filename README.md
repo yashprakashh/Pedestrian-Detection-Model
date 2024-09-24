@@ -61,16 +61,6 @@ This project involves building a pedestrian detection model using deep learning 
 
 The pedestrian detection model performs reasonably well on the given dataset, producing accurate bounding boxes for detected pedestrians. Future improvements can include experimenting with more advanced models such as DINO.
 
-**References**
-
-- Papers and resources related to pedestrian detection and object detection models.
-  
-**Appendix**
-
-- Any additional visualizations or results.
-
----
-
 This report can be expanded further depending on the depth you wish to go into for the project explanation.
 
 
